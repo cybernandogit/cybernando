@@ -33,6 +33,7 @@ connectivitycheck.gstatic.com
 content.garena.com
 deo.shopeemobile.com
 dm16-useast1a.tiktokv.com
+dnd.tools.avast.com
 e-boticario.com.br
 e2c50.gcp.gvt2.com
 edge-mqtt.facebook.com
@@ -43,6 +44,7 @@ g-zt.kwai-pro.com
 gateway.facebook.com
 gateway.instagram.com
 gecko31-normal-useast1a.tiktokv.com
+globoesporte.com
 globoplay.globo.com
 googleads.g.doubleclick.net
 graph-fallback.instagram.com
@@ -84,6 +86,7 @@ p77-sign-va.tiktokcdn.com
 pitaya-va.tiktokv.com
 play.google.com
 play.samsungcloud.com
+playanext.com
 s15.kwai.net
 s16.kwai.net
 search19-normal-c-useast1a.tiktokv.com
@@ -125,3 +128,7 @@ webcast22-ws-useast1a.tiktokv.com
 www.facebook.com
 www.googleadservices.com
 www.linkedin.com
+www.terabox.com
+www.tiktok.com
+zbshareware.com
+zbshareware.net
