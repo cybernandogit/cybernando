@@ -42,7 +42,7 @@ facebook.com
 fastshop.com.br
 frontier-va.tiktokv.com
 g-zt.kwai-pro.com
-g1.globo.com
+#g1.globo.com
 gateway.facebook.com
 gateway.instagram.com
 gecko31-normal-useast1a.tiktokv.com
@@ -160,6 +160,6 @@ www.wish.com
 www.zattini.com.br
 www.zbshareware.com
 www.zbshareware.net
-www.zema.com
+#www.zema.com
 zbshareware.com
 zbshareware.net
