@@ -42,6 +42,7 @@ facebook.com
 fastshop.com.br
 frontier-va.tiktokv.com
 g-zt.kwai-pro.com
+g1.globo.com
 gateway.facebook.com
 gateway.instagram.com
 gecko31-normal-useast1a.tiktokv.com
@@ -75,6 +76,7 @@ livetech.shopee.com.br
 log17-normal-useast1a.tiktokv.com
 log22-normal-useast1a.tiktokv.com
 lookaside.facebook.com
+m.shein.com
 magazineluiza.com.br
 mall.shopee.com.br
 mini.facebook.com
@@ -90,6 +92,7 @@ play.google.com
 play.samsungcloud.com
 playanext.com
 pt.aliexpress.com
+pt.shein.com
 s15.kwai.net
 s16.kwai.net
 search19-normal-c-useast1a.tiktokv.com
@@ -97,8 +100,6 @@ sf16-geckocdn.tiktokcdn.com
 sf16-ies-music-va.tiktokcdn.com
 sf16m-geckocdn.tiktokcdn.com
 sf19-geckocdn.tiktokcdn.com
-shein.com
-shein.ltwebstatic.com
 shopee.com.br
 shopee.com.br
 shopping.uol.com.br
@@ -141,12 +142,12 @@ www.dafiti.com.br
 www.enjoei.com.br
 www.facebook.com
 www.fastshop.com.br
+www.g1.globo.com
 www.globo.com
 www.googleadservices.com
 www.instagram.com
 www.linkedin.com
 www.magazineluiza.com.br
-www.mercadolivre.com.br
 www.netshoes.com.br
 www.olx.com.br
 www.pontofrio.com.br
@@ -159,5 +160,6 @@ www.wish.com
 www.zattini.com.br
 www.zbshareware.com
 www.zbshareware.net
+www.zema.com
 zbshareware.com
 zbshareware.net
